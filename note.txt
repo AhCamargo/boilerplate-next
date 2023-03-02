@@ -1,1 +1,5 @@
  "yarn test --bail" => faz parar na primeira falha que encontrar!
+ --findRelatedTests => faz que o validacao seja apenas nos arquivos que modificamos e que tenham testes.
+
+
+
